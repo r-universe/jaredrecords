@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Autoseed"]
+	path = Autoseed
+	url = https://github.com/cran/Autoseed
+	shallow = true
+	registered = true
